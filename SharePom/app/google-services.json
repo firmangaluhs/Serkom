@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542422915999",
+    "project_id": "share-pom",
+    "storage_bucket": "share-pom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542422915999:android:b173054dc3a5e021873baa",
+        "android_client_info": {
+          "package_name": "com.develop.sharepom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542422915999-i4h1pl8ggk56cr4gl84658sbv5uurhmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3QUv_coQZF_HrCUGokPnbYWHx8zK8Lrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542422915999-i4h1pl8ggk56cr4gl84658sbv5uurhmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
